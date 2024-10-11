@@ -97,6 +97,7 @@ color: #fff;
         <chunk_size_bytes>700000</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
         <hash>3748e55601fe1f4bc19c70fdeb0039f5fcae94ca93a68ec57d848dd25cacc6a4</hash>
         <image_height>2048</image_height>
